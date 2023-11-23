@@ -1,0 +1,5 @@
+Nombre: diego, Cédula: 12, Puntaje: 0
+Nombre: ddddd, Cédula: 222222, Puntaje: 0
+Nombre: dddd, Cédula: 2222222222222, Puntaje: 0
+Nombre: s, Cédula: 1, Puntaje: 0
+Nombre: Diego, Cédula: 23232333, Puntaje: 0
